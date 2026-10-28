@@ -1,0 +1,27 @@
+Metric,Value,Unit
+Total SKU-Warehouse Combos,60.0,count
+Critical (unmet demand),0.0,count
+Warning (below safety),0.0,count
+Excess,51.0,count
+Healthy,9.0,count
+Total Forecast Demand,6385.1,units
+Total Available Stock,40872.0,units
+Total Incoming Stock,2448.0,units
+Total Expected Unmet Demand,0.0,units
+Total Safety Stock Shortfall,0.0,units
+Total Excess Stock,35384.9,units
+Total Aged Stock (60+ days),11416.0,units
+Total Aged Stock (90+ days),4424.0,units
+Lost Contribution Margin,0.0,AED
+Aged Holding Cost,14082.13,AED
+Excess Holding Cost,46989.45,AED
+Total Financial Exposure,61071.58,AED
+Abu Dhabi - Unmet Demand,0.0,units
+Abu Dhabi - Excess Stock,7954.1,units
+Abu Dhabi - Financial Exposure,13774.93,AED
+Dubai - Unmet Demand,0.0,units
+Dubai - Excess Stock,12632.5,units
+Dubai - Financial Exposure,23113.31,AED
+Sharjah - Unmet Demand,0.0,units
+Sharjah - Excess Stock,14798.3,units
+Sharjah - Financial Exposure,24183.34,AED

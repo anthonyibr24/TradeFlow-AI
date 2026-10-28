@@ -1,0 +1,241 @@
+SKU,Warehouse,Age_Bucket,Quantity
+SKU-001,Abu Dhabi,0-30 days,63
+SKU-001,Abu Dhabi,31-60 days,47
+SKU-001,Abu Dhabi,61-90 days,31
+SKU-001,Abu Dhabi,90+ days,16
+SKU-001,Dubai,0-30 days,66
+SKU-001,Dubai,31-60 days,50
+SKU-001,Dubai,61-90 days,33
+SKU-001,Dubai,90+ days,17
+SKU-001,Sharjah,0-30 days,34
+SKU-001,Sharjah,31-60 days,26
+SKU-001,Sharjah,61-90 days,17
+SKU-001,Sharjah,90+ days,9
+SKU-002,Sharjah,0-30 days,10
+SKU-002,Sharjah,31-60 days,4
+SKU-002,Sharjah,61-90 days,2
+SKU-002,Sharjah,90+ days,1
+SKU-002,Dubai,0-30 days,38
+SKU-002,Dubai,31-60 days,29
+SKU-002,Dubai,61-90 days,19
+SKU-002,Dubai,90+ days,9
+SKU-002,Abu Dhabi,0-30 days,46
+SKU-002,Abu Dhabi,31-60 days,46
+SKU-002,Abu Dhabi,61-90 days,45
+SKU-002,Abu Dhabi,90+ days,45
+SKU-003,Dubai,0-30 days,26
+SKU-003,Dubai,31-60 days,11
+SKU-003,Dubai,61-90 days,4
+SKU-003,Dubai,90+ days,2
+SKU-003,Sharjah,0-30 days,46
+SKU-003,Sharjah,31-60 days,35
+SKU-003,Sharjah,61-90 days,23
+SKU-003,Sharjah,90+ days,11
+SKU-003,Abu Dhabi,0-30 days,83
+SKU-003,Abu Dhabi,31-60 days,110
+SKU-003,Abu Dhabi,61-90 days,165
+SKU-003,Abu Dhabi,90+ days,192
+SKU-004,Dubai,0-30 days,45
+SKU-004,Dubai,31-60 days,34
+SKU-004,Dubai,61-90 days,22
+SKU-004,Dubai,90+ days,11
+SKU-004,Sharjah,0-30 days,25
+SKU-004,Sharjah,31-60 days,19
+SKU-004,Sharjah,61-90 days,13
+SKU-004,Sharjah,90+ days,6
+SKU-004,Abu Dhabi,0-30 days,33
+SKU-004,Abu Dhabi,31-60 days,33
+SKU-004,Abu Dhabi,61-90 days,33
+SKU-004,Abu Dhabi,90+ days,32
+SKU-005,Abu Dhabi,0-30 days,21
+SKU-005,Abu Dhabi,31-60 days,9
+SKU-005,Abu Dhabi,61-90 days,3
+SKU-005,Abu Dhabi,90+ days,2
+SKU-005,Sharjah,0-30 days,34
+SKU-005,Sharjah,31-60 days,26
+SKU-005,Sharjah,61-90 days,17
+SKU-005,Sharjah,90+ days,9
+SKU-005,Dubai,0-30 days,91
+SKU-005,Dubai,31-60 days,91
+SKU-005,Dubai,61-90 days,91
+SKU-005,Dubai,90+ days,90
+SKU-006,Sharjah,0-30 days,25
+SKU-006,Sharjah,31-60 days,11
+SKU-006,Sharjah,61-90 days,4
+SKU-006,Sharjah,90+ days,2
+SKU-006,Abu Dhabi,0-30 days,51
+SKU-006,Abu Dhabi,31-60 days,38
+SKU-006,Abu Dhabi,61-90 days,25
+SKU-006,Abu Dhabi,90+ days,13
+SKU-006,Dubai,0-30 days,109
+SKU-006,Dubai,31-60 days,108
+SKU-006,Dubai,61-90 days,108
+SKU-006,Dubai,90+ days,108
+SKU-007,Abu Dhabi,0-30 days,15
+SKU-007,Abu Dhabi,31-60 days,6
+SKU-007,Abu Dhabi,61-90 days,3
+SKU-007,Abu Dhabi,90+ days,1
+SKU-007,Dubai,0-30 days,57
+SKU-007,Dubai,31-60 days,76
+SKU-007,Dubai,61-90 days,113
+SKU-007,Dubai,90+ days,132
+SKU-007,Sharjah,0-30 days,43
+SKU-007,Sharjah,31-60 days,57
+SKU-007,Sharjah,61-90 days,85
+SKU-007,Sharjah,90+ days,99
+SKU-008,Sharjah,0-30 days,17
+SKU-008,Sharjah,31-60 days,7
+SKU-008,Sharjah,61-90 days,3
+SKU-008,Sharjah,90+ days,1
+SKU-008,Dubai,0-30 days,34
+SKU-008,Dubai,31-60 days,26
+SKU-008,Dubai,61-90 days,17
+SKU-008,Dubai,90+ days,9
+SKU-008,Abu Dhabi,0-30 days,39
+SKU-008,Abu Dhabi,31-60 days,51
+SKU-008,Abu Dhabi,61-90 days,77
+SKU-008,Abu Dhabi,90+ days,90
+SKU-009,Dubai,0-30 days,46
+SKU-009,Dubai,31-60 days,19
+SKU-009,Dubai,61-90 days,7
+SKU-009,Dubai,90+ days,4
+SKU-009,Sharjah,0-30 days,39
+SKU-009,Sharjah,31-60 days,29
+SKU-009,Sharjah,61-90 days,19
+SKU-009,Sharjah,90+ days,10
+SKU-009,Abu Dhabi,0-30 days,102
+SKU-009,Abu Dhabi,31-60 days,136
+SKU-009,Abu Dhabi,61-90 days,205
+SKU-009,Abu Dhabi,90+ days,239
+SKU-010,Dubai,0-30 days,35
+SKU-010,Dubai,31-60 days,14
+SKU-010,Dubai,61-90 days,6
+SKU-010,Dubai,90+ days,3
+SKU-010,Abu Dhabi,0-30 days,109
+SKU-010,Abu Dhabi,31-60 days,145
+SKU-010,Abu Dhabi,61-90 days,217
+SKU-010,Abu Dhabi,90+ days,253
+SKU-010,Sharjah,0-30 days,70
+SKU-010,Sharjah,31-60 days,93
+SKU-010,Sharjah,61-90 days,139
+SKU-010,Sharjah,90+ days,162
+SKU-011,Sharjah,0-30 days,32
+SKU-011,Sharjah,31-60 days,13
+SKU-011,Sharjah,61-90 days,5
+SKU-011,Sharjah,90+ days,3
+SKU-011,Abu Dhabi,0-30 days,58
+SKU-011,Abu Dhabi,31-60 days,44
+SKU-011,Abu Dhabi,61-90 days,29
+SKU-011,Abu Dhabi,90+ days,14
+SKU-011,Dubai,0-30 days,74
+SKU-011,Dubai,31-60 days,98
+SKU-011,Dubai,61-90 days,148
+SKU-011,Dubai,90+ days,172
+SKU-012,Dubai,0-30 days,39
+SKU-012,Dubai,31-60 days,16
+SKU-012,Dubai,61-90 days,7
+SKU-012,Dubai,90+ days,3
+SKU-012,Abu Dhabi,0-30 days,46
+SKU-012,Abu Dhabi,31-60 days,34
+SKU-012,Abu Dhabi,61-90 days,23
+SKU-012,Abu Dhabi,90+ days,11
+SKU-012,Sharjah,0-30 days,71
+SKU-012,Sharjah,31-60 days,71
+SKU-012,Sharjah,61-90 days,71
+SKU-012,Sharjah,90+ days,70
+SKU-013,Dubai,0-30 days,20
+SKU-013,Dubai,31-60 days,8
+SKU-013,Dubai,61-90 days,3
+SKU-013,Dubai,90+ days,2
+SKU-013,Abu Dhabi,0-30 days,29
+SKU-013,Abu Dhabi,31-60 days,22
+SKU-013,Abu Dhabi,61-90 days,14
+SKU-013,Abu Dhabi,90+ days,7
+SKU-013,Sharjah,0-30 days,45
+SKU-013,Sharjah,31-60 days,60
+SKU-013,Sharjah,61-90 days,90
+SKU-013,Sharjah,90+ days,104
+SKU-014,Dubai,0-30 days,50
+SKU-014,Dubai,31-60 days,21
+SKU-014,Dubai,61-90 days,8
+SKU-014,Dubai,90+ days,4
+SKU-014,Abu Dhabi,0-30 days,37
+SKU-014,Abu Dhabi,31-60 days,28
+SKU-014,Abu Dhabi,61-90 days,19
+SKU-014,Abu Dhabi,90+ days,9
+SKU-014,Sharjah,0-30 days,54
+SKU-014,Sharjah,31-60 days,72
+SKU-014,Sharjah,61-90 days,108
+SKU-014,Sharjah,90+ days,125
+SKU-015,Sharjah,0-30 days,25
+SKU-015,Sharjah,31-60 days,10
+SKU-015,Sharjah,61-90 days,4
+SKU-015,Sharjah,90+ days,2
+SKU-015,Abu Dhabi,0-30 days,31
+SKU-015,Abu Dhabi,31-60 days,23
+SKU-015,Abu Dhabi,61-90 days,15
+SKU-015,Abu Dhabi,90+ days,8
+SKU-015,Dubai,0-30 days,68
+SKU-015,Dubai,31-60 days,91
+SKU-015,Dubai,61-90 days,136
+SKU-015,Dubai,90+ days,159
+SKU-016,Abu Dhabi,0-30 days,32
+SKU-016,Abu Dhabi,31-60 days,13
+SKU-016,Abu Dhabi,61-90 days,5
+SKU-016,Abu Dhabi,90+ days,3
+SKU-016,Dubai,0-30 days,47
+SKU-016,Dubai,31-60 days,36
+SKU-016,Dubai,61-90 days,24
+SKU-016,Dubai,90+ days,12
+SKU-016,Sharjah,0-30 days,45
+SKU-016,Sharjah,31-60 days,60
+SKU-016,Sharjah,61-90 days,90
+SKU-016,Sharjah,90+ days,104
+SKU-017,Abu Dhabi,0-30 days,23
+SKU-017,Abu Dhabi,31-60 days,9
+SKU-017,Abu Dhabi,61-90 days,4
+SKU-017,Abu Dhabi,90+ days,2
+SKU-017,Sharjah,0-30 days,24
+SKU-017,Sharjah,31-60 days,18
+SKU-017,Sharjah,61-90 days,12
+SKU-017,Sharjah,90+ days,6
+SKU-017,Dubai,0-30 days,74
+SKU-017,Dubai,31-60 days,74
+SKU-017,Dubai,61-90 days,73
+SKU-017,Dubai,90+ days,73
+SKU-018,Sharjah,0-30 days,14
+SKU-018,Sharjah,31-60 days,6
+SKU-018,Sharjah,61-90 days,3
+SKU-018,Sharjah,90+ days,1
+SKU-018,Dubai,0-30 days,31
+SKU-018,Dubai,31-60 days,23
+SKU-018,Dubai,61-90 days,15
+SKU-018,Dubai,90+ days,8
+SKU-018,Abu Dhabi,0-30 days,55
+SKU-018,Abu Dhabi,31-60 days,55
+SKU-018,Abu Dhabi,61-90 days,55
+SKU-018,Abu Dhabi,90+ days,55
+SKU-019,Dubai,0-30 days,28
+SKU-019,Dubai,31-60 days,12
+SKU-019,Dubai,61-90 days,5
+SKU-019,Dubai,90+ days,2
+SKU-019,Sharjah,0-30 days,25
+SKU-019,Sharjah,31-60 days,19
+SKU-019,Sharjah,61-90 days,13
+SKU-019,Sharjah,90+ days,6
+SKU-019,Abu Dhabi,0-30 days,59
+SKU-019,Abu Dhabi,31-60 days,79
+SKU-019,Abu Dhabi,61-90 days,119
+SKU-019,Abu Dhabi,90+ days,138
+SKU-020,Abu Dhabi,0-30 days,30
+SKU-020,Abu Dhabi,31-60 days,13
+SKU-020,Abu Dhabi,61-90 days,5
+SKU-020,Abu Dhabi,90+ days,2
+SKU-020,Sharjah,0-30 days,36
+SKU-020,Sharjah,31-60 days,27
+SKU-020,Sharjah,61-90 days,18
+SKU-020,Sharjah,90+ days,9
+SKU-020,Dubai,0-30 days,72
+SKU-020,Dubai,31-60 days,96
+SKU-020,Dubai,61-90 days,145
+SKU-020,Dubai,90+ days,169

@@ -1,0 +1,21 @@
+Metric,Value,Unit
+Number of recommended transfers,28.0,count
+Total units recommended,1108.0,units
+Total transfer cost,2021.5,AED
+Unmet demand before transfers,1119.69,units
+Unmet demand after transfers,12.41,units
+Unmet demand avoided,1107.28,units
+Estimated margin preserved,46838.67,AED
+Net economic benefit,44817.17,AED
+Shortage combos before,26.0,count
+Shortage combos after,24.0,count
+Shortages fully eliminated,2.0,count
+Abu Dhabi - Unmet before,353.2,units
+Abu Dhabi - Unmet after,3.68,units
+Abu Dhabi - Unmet avoided,349.52,units
+Dubai - Unmet before,437.65,units
+Dubai - Unmet after,3.89,units
+Dubai - Unmet avoided,433.76,units
+Sharjah - Unmet before,328.84,units
+Sharjah - Unmet after,4.84,units
+Sharjah - Unmet avoided,324.0,units

@@ -1,0 +1,3 @@
+Disruption_ID,Type,Affected_SKUs,Affected_Route,Delay_Days,Description
+D001,Component Shortage,"SKU-001,SKU-002,SKU-003",,10,Simulated component shortage delaying replenishment
+D002,Shipping Route Delay,,Dubai-Abu Dhabi,5,Simulated shipping delay on a selected route

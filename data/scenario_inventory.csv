@@ -1,0 +1,61 @@
+SKU,Warehouse,Available_Stock,Reserved_Stock,Safety_Stock
+SKU-001,Abu Dhabi,157,7,22
+SKU-001,Dubai,166,6,24
+SKU-001,Sharjah,86,6,16
+SKU-002,Sharjah,17,2,12
+SKU-002,Dubai,95,1,19
+SKU-002,Abu Dhabi,182,5,15
+SKU-003,Dubai,43,5,32
+SKU-003,Sharjah,115,8,28
+SKU-003,Abu Dhabi,550,2,32
+SKU-004,Dubai,112,6,19
+SKU-004,Sharjah,63,6,12
+SKU-004,Abu Dhabi,131,8,16
+SKU-005,Abu Dhabi,35,4,21
+SKU-005,Sharjah,86,6,19
+SKU-005,Dubai,363,7,29
+SKU-006,Sharjah,42,7,19
+SKU-006,Abu Dhabi,127,5,31
+SKU-006,Dubai,433,3,29
+SKU-007,Abu Dhabi,25,1,16
+SKU-007,Dubai,378,3,16
+SKU-007,Sharjah,284,7,12
+SKU-008,Sharjah,28,1,13
+SKU-008,Dubai,86,7,21
+SKU-008,Abu Dhabi,257,8,16
+SKU-009,Dubai,76,8,32
+SKU-009,Sharjah,97,7,26
+SKU-009,Abu Dhabi,682,2,32
+SKU-010,Dubai,58,4,26
+SKU-010,Abu Dhabi,724,8,25
+SKU-010,Sharjah,464,8,19
+SKU-011,Sharjah,53,6,23
+SKU-011,Abu Dhabi,145,4,29
+SKU-011,Dubai,492,7,31
+SKU-012,Dubai,65,2,25
+SKU-012,Abu Dhabi,114,6,23
+SKU-012,Sharjah,283,6,22
+SKU-013,Dubai,33,2,23
+SKU-013,Abu Dhabi,72,6,16
+SKU-013,Sharjah,299,3,13
+SKU-014,Dubai,83,3,30
+SKU-014,Abu Dhabi,93,6,22
+SKU-014,Sharjah,359,5,16
+SKU-015,Sharjah,41,4,16
+SKU-015,Abu Dhabi,77,3,15
+SKU-015,Dubai,454,6,19
+SKU-016,Abu Dhabi,53,8,25
+SKU-016,Dubai,119,8,24
+SKU-016,Sharjah,299,8,19
+SKU-017,Abu Dhabi,38,4,16
+SKU-017,Sharjah,60,7,12
+SKU-017,Dubai,294,5,20
+SKU-018,Sharjah,24,0,13
+SKU-018,Dubai,77,6,18
+SKU-018,Abu Dhabi,220,0,15
+SKU-019,Dubai,47,1,23
+SKU-019,Sharjah,63,6,16
+SKU-019,Abu Dhabi,395,0,19
+SKU-020,Abu Dhabi,50,5,30
+SKU-020,Sharjah,90,3,23
+SKU-020,Dubai,482,7,32

@@ -1,0 +1,5 @@
+Model,Type,MAE,RMSE,WAPE,Bias,vs_Original_Ridge_MAE
+Tuned XGBoost,Gradient Boosting,1.4661,1.859,0.434,-0.0331,-0.0254
+Random Forest,Tree Ensemble,1.4712,1.8562,0.4355,-0.0446,-0.0203
+Ridge Regression (Improved),Linear,1.472,1.877,0.4357,0.0306,-0.0195
+Historical Average Baseline,Baseline,1.4949,1.9247,0.4425,0.0586,0.0034

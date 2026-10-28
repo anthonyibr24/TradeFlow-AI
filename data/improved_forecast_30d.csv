@@ -1,0 +1,61 @@
+SKU,Warehouse,Forecast_30d,Lower_Bound,Upper_Bound,Selected_Model
+SKU-001,Abu Dhabi,107.92,101.12,114.72,Tuned XGBoost
+SKU-001,Dubai,121.52,114.72,128.32,Tuned XGBoost
+SKU-001,Sharjah,80.66,73.86,87.46,Tuned XGBoost
+SKU-002,Abu Dhabi,74.63,67.83,81.43,Tuned XGBoost
+SKU-002,Dubai,94.06,87.26,100.86,Tuned XGBoost
+SKU-002,Sharjah,62.05,55.25,68.85,Tuned XGBoost
+SKU-003,Abu Dhabi,159.73,152.93,166.53,Tuned XGBoost
+SKU-003,Dubai,159.74,152.94,166.54,Tuned XGBoost
+SKU-003,Sharjah,138.35,131.55,145.15,Tuned XGBoost
+SKU-004,Abu Dhabi,78.08,71.27,84.88,Tuned XGBoost
+SKU-004,Dubai,96.91,90.1,103.71,Tuned XGBoost
+SKU-004,Sharjah,62.28,55.48,69.09,Tuned XGBoost
+SKU-005,Abu Dhabi,105.96,99.16,112.76,Tuned XGBoost
+SKU-005,Dubai,143.12,136.32,149.92,Tuned XGBoost
+SKU-005,Sharjah,93.88,87.08,100.68,Tuned XGBoost
+SKU-006,Abu Dhabi,153.57,146.77,160.37,Tuned XGBoost
+SKU-006,Dubai,147.25,140.45,154.05,Tuned XGBoost
+SKU-006,Sharjah,92.81,86.01,99.62,Tuned XGBoost
+SKU-007,Abu Dhabi,81.52,74.72,88.32,Tuned XGBoost
+SKU-007,Dubai,79.57,72.77,86.37,Tuned XGBoost
+SKU-007,Sharjah,61.78,54.98,68.59,Tuned XGBoost
+SKU-008,Abu Dhabi,81.81,75.01,88.61,Tuned XGBoost
+SKU-008,Dubai,103.08,96.28,109.88,Tuned XGBoost
+SKU-008,Sharjah,62.93,56.13,69.74,Tuned XGBoost
+SKU-009,Abu Dhabi,160.36,153.56,167.16,Tuned XGBoost
+SKU-009,Dubai,158.86,152.06,165.66,Tuned XGBoost
+SKU-009,Sharjah,130.12,123.32,136.92,Tuned XGBoost
+SKU-010,Abu Dhabi,127.41,120.6,134.21,Tuned XGBoost
+SKU-010,Dubai,130.76,123.96,137.56,Tuned XGBoost
+SKU-010,Sharjah,96.98,90.18,103.78,Tuned XGBoost
+SKU-011,Abu Dhabi,146.54,139.74,153.34,Tuned XGBoost
+SKU-011,Dubai,156.71,149.91,163.51,Tuned XGBoost
+SKU-011,Sharjah,117.09,110.29,123.89,Tuned XGBoost
+SKU-012,Abu Dhabi,116.2,109.4,123.0,Tuned XGBoost
+SKU-012,Dubai,126.24,119.44,133.04,Tuned XGBoost
+SKU-012,Sharjah,111.0,104.2,117.8,Tuned XGBoost
+SKU-013,Abu Dhabi,82.24,75.44,89.04,Tuned XGBoost
+SKU-013,Dubai,114.11,107.31,120.91,Tuned XGBoost
+SKU-013,Sharjah,63.41,56.61,70.21,Tuned XGBoost
+SKU-014,Abu Dhabi,111.44,104.64,118.24,Tuned XGBoost
+SKU-014,Dubai,147.51,140.71,154.31,Tuned XGBoost
+SKU-014,Sharjah,77.52,70.72,84.32,Tuned XGBoost
+SKU-015,Abu Dhabi,75.27,68.47,82.07,Tuned XGBoost
+SKU-015,Dubai,97.08,90.27,103.88,Tuned XGBoost
+SKU-015,Sharjah,79.92,73.11,86.72,Tuned XGBoost
+SKU-016,Abu Dhabi,122.66,115.86,129.46,Tuned XGBoost
+SKU-016,Dubai,121.23,114.43,128.03,Tuned XGBoost
+SKU-016,Sharjah,94.25,87.45,101.05,Tuned XGBoost
+SKU-017,Abu Dhabi,82.38,75.58,89.18,Tuned XGBoost
+SKU-017,Dubai,98.19,91.39,104.99,Tuned XGBoost
+SKU-017,Sharjah,61.98,55.18,68.78,Tuned XGBoost
+SKU-018,Abu Dhabi,76.72,69.92,83.52,Tuned XGBoost
+SKU-018,Dubai,87.81,81.0,94.61,Tuned XGBoost
+SKU-018,Sharjah,62.95,56.15,69.75,Tuned XGBoost
+SKU-019,Abu Dhabi,96.76,89.96,103.57,Tuned XGBoost
+SKU-019,Dubai,113.83,107.03,120.63,Tuned XGBoost
+SKU-019,Sharjah,78.08,71.28,84.88,Tuned XGBoost
+SKU-020,Abu Dhabi,147.71,140.91,154.51,Tuned XGBoost
+SKU-020,Dubai,157.94,151.14,164.74,Tuned XGBoost
+SKU-020,Sharjah,112.6,105.8,119.4,Tuned XGBoost

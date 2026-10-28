@@ -1,0 +1,7 @@
+Origin,Destination,Cost_Per_Unit_AED,Lead_Time_Days
+Dubai,Abu Dhabi,2.0,1
+Abu Dhabi,Dubai,2.0,1
+Dubai,Sharjah,1.0,1
+Sharjah,Dubai,1.0,1
+Abu Dhabi,Sharjah,2.5,2
+Sharjah,Abu Dhabi,2.5,2

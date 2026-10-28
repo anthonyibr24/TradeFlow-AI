@@ -1,0 +1,21 @@
+SKU,Product,Category,Unit_Cost_AED,Selling_Price_AED,Profit_Margin_AED,Holding_Cost_Per_Unit_Day_AED
+SKU-001,USB-C Charger,Chargers,119.48,170.32,50.84,0.0597
+SKU-002,Wireless Charger,Chargers,130.91,200.15,69.24,0.0655
+SKU-003,Fast Charger,Chargers,27.71,45.45,17.74,0.0139
+SKU-004,Laptop Charger,Chargers,117.75,184.21,66.46,0.0589
+SKU-005,USB-C Cable,Cables,32.3,46.19,13.89,0.0161
+SKU-006,HDMI Cable,Cables,65.06,105.44,40.38,0.0325
+SKU-007,Ethernet Cable,Cables,101.92,160.94,59.02,0.051
+SKU-008,Lightning Cable,Cables,74.86,100.38,25.52,0.0374
+SKU-009,Wireless Mouse,Computer Accessories,89.87,114.63,24.76,0.0449
+SKU-010,Gaming Mouse,Computer Accessories,126.73,190.43,63.7,0.0634
+SKU-011,Wireless Keyboard,Computer Accessories,117.34,163.32,45.98,0.0587
+SKU-012,Mechanical Keyboard,Computer Accessories,146.04,234.72,88.68,0.073
+SKU-013,USB Flash Drive,Storage,120.08,159.45,39.37,0.06
+SKU-014,External SSD,Storage,78.01,98.88,20.87,0.039
+SKU-015,External HDD,Storage,35.83,54.58,18.75,0.0179
+SKU-016,Memory Card,Storage,115.54,189.14,73.6,0.0578
+SKU-017,Webcam,Peripherals,58.99,82.48,23.49,0.0295
+SKU-018,Headset,Peripherals,78.39,103.93,25.54,0.0392
+SKU-019,USB Hub,Peripherals,32.54,46.87,14.33,0.0163
+SKU-020,Docking Station,Peripherals,45.63,69.26,23.63,0.0228
