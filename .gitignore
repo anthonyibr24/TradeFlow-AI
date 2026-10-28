@@ -1,0 +1,58 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Database files (user decisions — not shared)
+*.db
+tradeflow_agents.db
+
+# API keys and secrets
+.env
+api_keys.json
+secrets.json
+
+# Temporary files
+*.tmp
+*.temp
+inspect*.py
+create_*.py
+print_*.py
+build_*.py
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated reports (optional — uncomment if needed)
+# FIX_*.md
+# AUDIT_REPORT.md
+# DEMAND_UNCERTAINTY_REPORT.md
+
+# CodeBuddy workspace data
+.codebuddy/
+
+# Large intermediate files (optional — uncomment if needed)
+# *.csv
+# *.pkl
+# *.joblib
