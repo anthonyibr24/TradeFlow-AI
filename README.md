@@ -4,7 +4,7 @@
 
 TradeFlow AI is an agentic AI platform that forecasts demand, detects inventory risks, and recommends inter-warehouse transfers using mathematical optimization — with full human-in-the-loop approval.
 
-https://github.com/anthonyibr24/TradeFlow-AI
+https://tradeflow-ai-d3nvyizlyzgfy6jqvkmf4k.streamlit.app/
 
 ## Project Overview
 
